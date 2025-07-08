@@ -1,1 +1,1 @@
-# panmin.me
+# blog.panmin.me
